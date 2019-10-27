@@ -91,3 +91,6 @@ Content/MikesParticlePack
 Content/MixamoAnimPack/*
 Content/StarterContent/*
 Content/TopDownBP/*
+
+# My Content file to ignore
+Content/Student/FX/*
